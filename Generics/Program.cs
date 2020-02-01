@@ -49,9 +49,23 @@ namespace Generics
              tc.m1(str1);
              double[] op = new double[] { 5.354564, 8.54564, 4.354564, 2.564564 };
              tc.m1(op);*/
+            /*  LinkedList bl = new LinkedList();
 
-            GParameter<string> bc = new GParameter<string>();
-            GParameter<int> ba = new GParameter<int>();
+              bl.Add("text1");
+              bl.Add("text2");
+              bl.Add(1, "text3");
+              bool temp = bl.Contains("hello");
+              Console.WriteLine(temp);
+              bl.Show();
+              Console.Write("Array Values :");
+              int[] arr = new int[] {10,20,30,40,15, 25,35 };
+              string[] arr1 = new string[] { "Anoop", "Ashok", "Siya", "Poonam" };
+              MathmaticOperation mo = new MathmaticOperation();
+              mo.m1(arr);
+              Console.WriteLine();
+              Console.Write("The value of String array : ");
+              mo.m1(arr1);*/
+            BubbleSortGeneric.BubbleMethod();
         }
     }
 }

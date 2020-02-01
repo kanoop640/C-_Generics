@@ -13,7 +13,7 @@ namespace Generics
         {
             foreach (T str in input)
             {
-                Console.WriteLine(str);
+                Console.Write(" "+str);
             }
         }
     }
