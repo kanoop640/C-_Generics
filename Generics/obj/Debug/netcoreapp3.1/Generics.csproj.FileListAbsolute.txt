@@ -1,0 +1,11 @@
+D:\Anoop_kumar\DotNetExample\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+D:\Anoop_kumar\DotNetExample\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+D:\Anoop_kumar\DotNetExample\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+D:\Anoop_kumar\DotNetExample\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+D:\Anoop_kumar\DotNetExample\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+D:\Anoop_kumar\DotNetExample\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
