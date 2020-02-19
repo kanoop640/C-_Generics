@@ -17,7 +17,7 @@ namespace Generics
                 int[] arr = new int[len];
                 for (int i = 0; i < len; i++)
                 {
-                    arr[i] = int.Parse(Console.ReadLine());
+                    carr[i] = int.Parse(Console.ReadLine());
                 }
                 int[] b = BubbleSort<int>(arr);
                 foreach (int str in b)

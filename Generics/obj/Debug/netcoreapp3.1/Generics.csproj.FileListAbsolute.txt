@@ -9,3 +9,5 @@ D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyI
 D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
 D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.dll
 D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+D:\Anoop_kumar\DotNetExample\Generics\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Anoop_kumar\DotNetExample\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CopyComplete
